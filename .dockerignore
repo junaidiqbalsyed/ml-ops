@@ -10,3 +10,5 @@ LICENSE
 README.md
 notebooks
 scripts
+*.pem
+syedjunaidiqbal_accessKeys.csv
